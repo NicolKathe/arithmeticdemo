@@ -1,4 +1,4 @@
-package com.example.developers.arithmetic;
+package com.github.developers.arithmetic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

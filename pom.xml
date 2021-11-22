@@ -8,7 +8,7 @@
 		<version>2.6.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.developers</groupId>
+	<groupId>com.github.developers</groupId>
 	<artifactId>arithmetic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>arithmetic</name>
